@@ -113,7 +113,7 @@ public class Patient {
 	
 	// build emergo contact 
 	public String Econtact() {
-		return Ename +" "+ Ephone;
+		return "Emergancy contact: "+ Ename +" "+ Ephone;
 	}
 	
 	// to stright
